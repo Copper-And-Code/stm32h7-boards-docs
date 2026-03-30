@@ -72,8 +72,8 @@ Available in two hardware revisions with different pin assignments.
 
 ## Related pull requests
 
-- **Board definitions:** [lvgl/lv_micropython#TBD](https://github.com/lvgl/lv_micropython)
-- **LTDC/Touch driver:** [lvgl/lv_binding_micropython#TBD](https://github.com/lvgl/lv_binding_micropython)
+- **Board definitions:** [lvgl/lv_micropython#105](https://github.com/lvgl/lv_micropython/pull/105)
+- **LTDC/Touch driver:** [lvgl/lv_binding_micropython#407](https://github.com/lvgl/lv_binding_micropython/pull/407)
 
 ## Display panels tested
 
